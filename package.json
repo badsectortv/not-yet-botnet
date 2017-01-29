@@ -1,0 +1,19 @@
+{
+  "name": "not-yet-botnet",
+  "version": "1.0.0",
+  "description": "\"Hard left turn\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badsectortv/not-yet-botnet.git"
+  },
+  "author": "headcrash@badsector.tv keybored@badsector.tv auntievirus@badsector.tv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badsectortv/not-yet-botnet/issues"
+  },
+  "homepage": "https://github.com/badsectortv/not-yet-botnet#readme"
+}
